@@ -30,6 +30,6 @@
 ## Contributions
 ![snake gif](https://github.com/juniorcfj/juniorcfj/blob/output/github-contribution-grid-snake.gif)
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Olavo15&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=juniorcfj&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 -->
